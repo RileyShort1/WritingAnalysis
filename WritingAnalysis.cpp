@@ -106,7 +106,7 @@ void checkText(std::string filename)
             return l.second > r.second;
         });
 
-    std::cout << "9 most common words:" << std::endl;
+    std::cout << "10 most common words:" << std::endl;
 
     int count = 1;
     for (auto const& p : top_four)
