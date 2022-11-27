@@ -1,8 +1,8 @@
 // WritingAnalysis.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 // Program takes in a text file and outputs technical information about the writing. 
-// This includes word count, average word length, sentance count, average sentance length, 
-// longest word and longest sentance.
+// This includes word count, average word length, sentence count, average sentence length, 
+// longest word and longest sentence as well as top 10 most used words
 
 #include <iostream>
 #include <sstream>
